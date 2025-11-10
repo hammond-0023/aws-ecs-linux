@@ -31,5 +31,3 @@ This project involves containerizing a web application using Docker, hosting it 
 
 
 
-## License
-[Include your license here]
